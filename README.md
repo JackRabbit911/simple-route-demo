@@ -7,7 +7,7 @@ Watch out, this project is meant to show how to how to embed simple-route librar
 ## Run
 To run this demo, you need install simle-route lidrary or clone this repository:
 ```
-git clone https://github.com/JackRabbit911/simple-route
+git clone https://github.com/JackRabbit911/simple-route-demo
 
 composer install
 ```
