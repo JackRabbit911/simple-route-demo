@@ -8,7 +8,7 @@ Watch out, this project is meant to show how to how to embed simple-route librar
 To run this demo, you need install simle-route lidrary or clone this repository:
 ```
 git clone https://github.com/JackRabbit911/simple-route-demo
-
+cd simple-route-demo/
 composer install
 ```
 You can then run the web application using PHP's built-in server:
